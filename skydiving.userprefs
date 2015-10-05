@@ -1,0 +1,18 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/skyscrapers/scripts/explosion.js">
+    <Files>
+      <File FileName="Assets/skyscrapers/scripts/airplane.js" Line="53" Column="20" />
+      <File FileName="Assets/skyscrapers/scripts/gamecontrol.js" Line="11" Column="5" />
+      <File FileName="Assets/skyscrapers/scripts/piecesForce.js" Line="4" Column="21" />
+      <File FileName="Assets/skyscrapers/scripts/smoothfollow.js" Line="27" Column="47" />
+      <File FileName="Assets/skyscrapers/scripts/shooter.js" Line="22" Column="28" />
+      <File FileName="Assets/skyscrapers/scripts/wait&amp;destroy.js" Line="7" Column="36" />
+      <File FileName="Assets/skyscrapers/scripts/explosion.js" Line="10" Column="40" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
